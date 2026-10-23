@@ -16,7 +16,7 @@ Key features included in the main dashboard:
 * **Category Breakdown:** Performance tracking across Bikes, Clothing, Accessories, and Components.
 * **Trend Analysis:** Annual Sankey flow and Monthly sales fluctuation line chart.
 
-<img src="Screenshot%202026-10-23%20232307.jpg" width="100%">
+<img src="Screenshot 2026-10-23 232307.jpg" width="100%">
 
 ---
 
@@ -34,7 +34,7 @@ Strategic action plan derived from the analytical findings:
   * **Stock Reallocation & Inventory Optimization:** Shift resources from stagnant items to high-demand regional hubs.
   * **Targeted Marketing:** Bridge sales gaps in low-performing cities.
 
-<img src="Screenshot%202026-10-23%20232345.png" width="100%">
+<img src="Screenshot 2026-10-23 232345.png" width="100%">
 
 ---
 
@@ -42,7 +42,7 @@ Strategic action plan derived from the analytical findings:
 * **Data Cleaning & Transformation:** Handled missing values, standardized text casing, and ensured optimal data types across all fields.
 * **Profiling & Integrity:** Verified column distribution and zero-error rates across dataset dimensions.
 
-<img src="Screenshot%202026-10-23%20145528.png" width="100%">
+<img src="Screenshot 2026-10-23 145528.png" width="100%">
 
 ---
 
@@ -50,14 +50,14 @@ Strategic action plan derived from the analytical findings:
 * Designed an efficient **Star Schema** with `SalesT` as the central Fact table connected via 1-to-Many relationships to Dimension tables (`Product` and `Location`).
 * Optimized performance for handling large-scale datasets seamlessly.
 
-<img src="Screenshot%202026-10-23%20145947.png" width="100%">
+<img src="Screenshot 2026-10-23 145947.png" width="100%">
 
 ---
 
 ## 🧮 Calculated Columns & DAX Measures
 Custom DAX measures and columns created to track gross sales, net sales, discount impacts, and aggregate quantities:
 
-<img src="Screenshot%202026-10-23%20152625.png" width="100%">
+<img src="Screenshot 2026-10-23 152625.png" width="100%">
 
 ---
 
@@ -66,9 +66,6 @@ Custom DAX measures and columns created to track gross sales, net sales, discoun
 * **Power Query** (ETL & Data Transformation)
 * **DAX** (Calculated Columns & Measures)
 * **GitHub Desktop** (Version Control & Documentation)
-
----
-*Created by **AbdO RaAfat** | Data Analyst & BI Specialist*
 
 ---
 *Created by **AbdO RaAfat** | Data Analyst & BI Specialist*
