@@ -4,13 +4,8 @@ An interactive and comprehensive **Power BI** business intelligence solution des
 
 ---
 
-## 📌 Project Overview
-This project processes and models over **3 Million sales records** to extract meaningful commercial insights. It evaluates revenue across geographic locations, product categories, and annual/monthly trends to build an actionable strategy for profit optimization.
-
----
-
-## 🎨 Cover Showcase
-![Adidas Sales Strategy Cover](Screanshot1.jpg)
+## 🎨 Project Cover
+![Project Cover](Screanshot1.jpg)
 
 ---
 
@@ -18,7 +13,7 @@ This project processes and models over **3 Million sales records** to extract me
 * **Data Cleaning & Transformation:** Handled missing values, standardized text casing, and ensured optimal data types across all fields.
 * **Profiling & Integrity:** Verified column distribution and zero-error rates across dataset dimensions.
 
-![Data Transformation](Screenshot%202026-10-23%20145528.png)
+![Power Query ETL](Screenshot%202026-10-23%20145528.png)
 
 ---
 
@@ -26,14 +21,14 @@ This project processes and models over **3 Million sales records** to extract me
 * Designed an efficient **Star Schema** with `SalesT` as the central Fact table connected via 1-to-Many relationships to Dimension tables (`Product` and `Location`).
 * Optimized performance for handling large-scale datasets seamlessly.
 
-![Data Model](Screenshot%202026-10-23%20145947.png)
+![Data Model Schema](Screenshot%202026-10-23%20145947.png)
 
 ---
 
 ## 🧮 Calculated Columns & DAX Measures
 Custom DAX measures and columns created to track gross sales, net sales, discount impacts, and aggregate quantities:
 
-![DAX Calculations](Screenshot%202026-10-23%20152625.png)
+![DAX Measures](Screenshot%202026-10-23%20152625.png)
 
 ---
 
@@ -44,7 +39,7 @@ Key features included in the main dashboard:
 * **Category Breakdown:** Performance tracking across Bikes, Clothing, Accessories, and Components.
 * **Trend Analysis:** Annual Sankey flow and Monthly sales fluctuation line chart.
 
-![Sales Dashboard](Screenshot%202026-10-23%20232307.jpg)
+![Main Sales Dashboard](Screenshot%202026-10-23%20232307.jpg)
 
 ---
 
@@ -62,7 +57,7 @@ Strategic action plan derived from the analytical findings:
   * **Stock Reallocation & Inventory Optimization:** Shift resources from stagnant items to high-demand regional hubs.
   * **Targeted Marketing:** Bridge sales gaps in low-performing cities.
 
-![Recommendations Strategy](Screenshot%202026-10-23%20232345.png)
+![Strategic Recommendations](Screenshot%202026-10-23%20232345.png)
 
 ---
 
@@ -72,5 +67,7 @@ Strategic action plan derived from the analytical findings:
 * **DAX** (Calculated Columns & Measures)
 * **GitHub Desktop** (Version Control & Documentation)
 
+---
+*Created by **AbdO RaAfat** | Data Analyst & BI Specialist*
 ---
 *Created by **AbdO RaAfat** | Data Analyst & BI Specialist*
