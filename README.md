@@ -5,7 +5,7 @@ An interactive and comprehensive **Power BI** business intelligence solution des
 ---
 
 ## 🎨 Project Cover
-<img src="img1.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/abdoraafat173-pixel/Adidas-Sales-Strategy/main/1.jpg" width="100%">
 
 ---
 
@@ -16,7 +16,7 @@ Key features included in the main dashboard:
 * **Category Breakdown:** Performance tracking across Bikes, Clothing, Accessories, and Components.
 * **Trend Analysis:** Annual Sankey flow and Monthly sales fluctuation line chart.
 
-<img src="img2.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/abdoraafat173-pixel/Adidas-Sales-Strategy/main/2.jpg" width="100%">
 
 ---
 
@@ -34,7 +34,7 @@ Strategic action plan derived from the analytical findings:
   * **Stock Reallocation & Inventory Optimization:** Shift resources from stagnant items to high-demand regional hubs.
   * **Targeted Marketing:** Bridge sales gaps in low-performing cities.
 
-<img src="img3.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/abdoraafat173-pixel/Adidas-Sales-Strategy/main/3.png" width="100%">
 
 ---
 
@@ -42,7 +42,7 @@ Strategic action plan derived from the analytical findings:
 * **Data Cleaning & Transformation:** Handled missing values, standardized text casing, and ensured optimal data types across all fields.
 * **Profiling & Integrity:** Verified column distribution and zero-error rates across dataset dimensions.
 
-<img src="img4.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/abdoraafat173-pixel/Adidas-Sales-Strategy/main/4.png" width="100%">
 
 ---
 
@@ -50,14 +50,14 @@ Strategic action plan derived from the analytical findings:
 * Designed an efficient **Star Schema** with `SalesT` as the central Fact table connected via 1-to-Many relationships to Dimension tables (`Product` and `Location`).
 * Optimized performance for handling large-scale datasets seamlessly.
 
-<img src="img5.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/abdoraafat173-pixel/Adidas-Sales-Strategy/main/5.png" width="100%">
 
 ---
 
 ## 🧮 Calculated Columns & DAX Measures
 Custom DAX measures and columns created to track gross sales, net sales, discount impacts, and aggregate quantities:
 
-<img src="img6.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/abdoraafat173-pixel/Adidas-Sales-Strategy/main/6.png" width="100%">
 
 ---
 
